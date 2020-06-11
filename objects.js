@@ -1,4 +1,6 @@
 var playlist = {drake: 'toosie slide'};
 function updatePlaylist(playlist, artistName, songTitle){
-  playlist['My Bloody Valentine']
+  playlist['Slowdive']='Alison';
+  playlist['My Bloody Valentine']= 'Sometimes';
+  return playlist
 }
