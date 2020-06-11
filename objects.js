@@ -1,2 +1,2 @@
 var playlist = {drake: 'toosie slide'};
-function 
+function updatePlaylist(playlist, artistName, songTitle
